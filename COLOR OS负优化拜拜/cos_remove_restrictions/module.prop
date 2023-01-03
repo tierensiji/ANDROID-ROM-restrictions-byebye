@@ -1,0 +1,6 @@
+id=cos_remove_restrictions
+name=cos_remove_restrictions
+version=V0.1
+versionCode=10
+author=铁人司机
+description=让COS，智能刷新率策略、智能降帧和游戏限制帧率策略、高温降亮度的策略、高温停用HDR的限制、powerhal主动场景变频策略、cos高温限制配置文件、cos温控服务配置文件，拜拜！将充电温度设置为15~60℃。强制锁定各APP以最大刷新率和帧率运行。并将全机用户APP添加进HDR支持名单。本模块通过FEMIND代码自动生成，适配COS11 12的各种机型，不同机型文件不一样，直接复制模块基本无效。

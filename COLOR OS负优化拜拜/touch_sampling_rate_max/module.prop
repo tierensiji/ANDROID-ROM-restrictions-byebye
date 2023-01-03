@@ -1,0 +1,6 @@
+id=touch_sampling_rate_max
+name=自动COS满血触摸采样率
+version=v1.0-20220414_1
+versionCode=10
+author=铁人司机
+description=每五秒自动写入一次开启COS满血触摸采样率

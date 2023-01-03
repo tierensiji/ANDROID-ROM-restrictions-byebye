@@ -1,0 +1,15 @@
+init.svc.oppo_theias=stopped
+sys.oppo.high.performance=1
+sys.thermal.enable=false
+init.svc.thermal=stopped
+init.svc.thermal_manager=stopped
+init.svc.thermald=stopped
+init.svc.thermalloadalgod=stopped
+init.svc.vendor.thermal-hal-2-0.mtk=stopped
+sys.enable.hypnus=0
+persist.sys.horae.enable=0
+init.svc.horae=stopped
+persist.vendor.enable.hans=0
+sys.hans.enable=0
+init.svc.orms-hal-1-0=stopped
+init.svc.fuelgauged=stopped
